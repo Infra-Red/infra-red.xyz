@@ -1,0 +1,8 @@
+---
+applications:
+- name: infra-red page 
+  memory: 512M
+  instances: 1
+  host: infra-red
+  path: .
+
